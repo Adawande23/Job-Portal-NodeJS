@@ -41,7 +41,7 @@ const option = {
         },
         servers: [
             {
-                url: "http://localhost:8080"
+                url: "https://job-portal-nodejs-n2u4.onrender.com"
             }
         ]
     },
